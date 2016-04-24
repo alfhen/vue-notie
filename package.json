@@ -1,10 +1,11 @@
 {
   "name": "vue-notie",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "A Vue.js plugin wrapper for the awesome Notie.js",
   "author": "Alf Henderson <alfhenderson@gmail.com>",
   "private": false,
-  "main": "src/components/Select.vue",
+  "main": "src/vue-notie.js",
+  "license": "MIT",
   "scripts": {},
   "repository": {
     "type": "git",
