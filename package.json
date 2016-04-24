@@ -1,0 +1,18 @@
+{
+  "name": "vue-notie",
+  "version": "0.1",
+  "description": "A Vue.js plugin wrapper for the awesome Notie.js",
+  "author": "Alf Henderson <alfhenderson@gmail.com>",
+  "private": false,
+  "main": "src/components/Select.vue",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alfhen/vue-notie.git"
+  },
+  "dependencies": {
+    "notie": "^3.2.0",
+    "vue": "^1.0.21"
+  },
+  "devDependencies": {}
+}
